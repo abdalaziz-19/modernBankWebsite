@@ -248,6 +248,7 @@ body .wraper {
     width: fit-content;
     border-radius: 10px;
     font-size: 18px;
+    margin-right:1rem;
 }
 
 .hero-text .discount img {
@@ -442,7 +443,6 @@ body .wraper {
     border-radius: 20px;
     flex-flow: column;
     align-items: flex-end;
-    margin: 1rem;
 }
 
 .card .text-cont {
